@@ -1,10 +1,10 @@
 ---
 name: Job Listing
+title: '[JOB] <title> <info>'
 about: Please use this template to create new job listing
-type: job
+type: jobs
 labels:  '' 
 assignees: ''
-
 ---
 
 # 🚀 New [Your Role name] Role at [Your Company Name]  
