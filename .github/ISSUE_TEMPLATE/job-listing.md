@@ -1,6 +1,6 @@
 ---
 name: Job Listing
-title: '[JOB] <title> <info>'
+title: '<title> <info>'
 about: Please use this template to create new job listing
 type: jobs
 labels:  '' 
