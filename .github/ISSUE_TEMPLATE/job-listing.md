@@ -1,42 +1,36 @@
 ---
 name: Job Listing
 about: Please use this template to create new job listing
-title: ''
-labels: ''
+type: job
+labels:  '' 
 assignees: ''
 
 ---
 
-# Job Posting: [Job Title]
+# 🚀 New [Your Role name] Role at [Your Company Name]  
 
-## Job Overview
-- **Role:** 
-- **Type:** 
-- **Location:** 
-- **Salary Range:** $[MIN] - $[MAX] per year
+## Job Overview  
+- **Role:** [Your role title]
+- **Type:** Full-time | Part-time etc
+- **Location:** 🌍 Remote (or specify city if on-site)  
+- **Salary Range:** $x - $y per year  
 
-## Responsibilities
-- 
-- 
-- 
+## Responsibilities  
+- 🖥️ Develop and maintain ...
+- 🎨 Work closely with ...
+- 🛠️ Debug and optimize ...
 
-## Requirements
-- 
-- 
-- 
+## Requirements  
+- 💻 Proficiency in ...
+- 🎨 Understanding of ...
+- 🤝 Strong ...
 
-## How to Apply
-Comment "APPLY" on this issue
+## How to Apply  
+<!-- To create apply link use https://docs.google.com/forms/ then find Job Application form, generate link and change it below: -->
 
-**Application Review:**
-- Hiring team will review your GitHub profile
-- Candidates will be contacted via GitHub
+Click [APPLY](PUT YOUR FORM LINK HERE) 
 
----
-<!-- Example Labels to Create:
-- python
-- javascript
-- full-time
-- part-time
-- remote
--->
+**Application Review:**  
+- 👀 Hiring team will review your GitHub profile  
+- 📩 Chosen Candidates Will Be Contacted 
+ 
